@@ -2,3 +2,5 @@ This is my first flie
 I am practising commiting the cache (stage )
 
 It's going ok
+
+The cat is fluffy 
